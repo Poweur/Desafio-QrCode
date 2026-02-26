@@ -1,0 +1,13 @@
+{
+  "name": "ot",
+  "version": "1.0.0",
+  "description": "kit de utilidades para e-commerces",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node --env-file=.env Qr/src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
